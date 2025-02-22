@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Prajwal Birwadkar!  
+# 👋 Hi, I'm Prajwal Sunil Birwadkar!  
 
 🚀 **AI & Machine Learning Engineer** | 🤖 **Automation & Robotics Enthusiast** 
 
