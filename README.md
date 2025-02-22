@@ -20,9 +20,9 @@ I am passionate about **Artificial Intelligence, Deep Learning, and Automation**
 ✔ **Data Science & Visualization** (Power BI, Jupyter Notebook)  
 
 ## 📫 Connect with Me  
+🔗 **Portfolio Website:** [prajwalBirwadkar](https://prajwalbirwadkar.wixsite.com/prajwal-birwadkar-1)
 🔗 **LinkedIn:** [linkedin.com/in/prajwal-birwadkar-99449a204](https://www.linkedin.com/in/prajwal-birwadkar-99449a204/)  
 🔗 **GitHub:** [github.com/prajwalBirwadkar](https://github.com/prajwalBirwadkar)  
-🔗 **Portfolio Website:** [prajwalBirwadkar](https://prajwalbirwadkar.wixsite.com/prajwal-birwadkar-1)
 
 📧 **Email:** prajwalbirwadkar@gmail.com  
 
