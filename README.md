@@ -71,11 +71,11 @@ I am passionate about **Artificial Intelligence, Deep Learning, and Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vedant-barguje/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-barguje" height="30" width="40" /></a>
-<a href="tel:+919284843035" target="blank">
+<a href="https://www.linkedin.com/in/prajwal-birwadkar-99449a204/" target="blank"><img align="center" src="ntent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prajwal-Birwadkar" height="30" width="40" /></a>
+<a href="tel:+918805293747" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/phone.svg" alt="Phone" height="30" width="40" />
     </a>
-    <a href="mailto:your-vedantbarguje3071@gmail.com" target="blank">
+    <a href="mailto:your-Prajwalbirwadkar@gmail.com" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="30" width="40" />
     </a>
 </p>
